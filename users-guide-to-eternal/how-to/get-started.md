@@ -4,7 +4,7 @@ description: A guide to getting started with Eternal and making more money
 
 # Get started
 
-Welcome! If you want to use Eternal but do not know how to, you have come to the right place.     To start using Eternal's services there are **only three requirements:**
+<mark style="color:purple;">Welcome! If you want to use Eternal but do not know yet how to, you have come to the right place. To start using Eternal's services there are</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**only three requirements:**</mark>
 
 ## 1. Get a valid wallet
 
