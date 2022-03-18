@@ -2,12 +2,12 @@
 
 * [📔 Introduction/FAQ](README.md)
 
-## User Manual
+## User's Guide to Eternal
 
-* [❓ How to](user-manual/how-to/README.md)
-  * [Get started](user-manual/how-to/get-started.md)
-  * [Use the platform](user-manual/how-to/use-the-platform.md)
-  * [View your stats](user-manual/how-to/view-your-stats.md)
+* [❓ How to](users-guide-to-eternal/how-to/README.md)
+  * [Get started](users-guide-to-eternal/how-to/get-started.md)
+  * [Use the platform](users-guide-to-eternal/how-to/use-the-platform.md)
+  * [View your stats](users-guide-to-eternal/how-to/view-your-stats.md)
 
 ## Token
 
