@@ -4,7 +4,7 @@ description: The token economics of ETRNL
 
 # Tokenomics
 
-### Distribution&#x20;
+### Distribution
 
 Following Eternal's pledge of being created by the people, for the people, a fair launched [Initial Gage Offering](../../products-services/gages/loyalty-gage/initial-gage-offering.md) will be put in place. Furthermore, in the name of total decentralization of governance, neither the Eternal team or the Eternal B.V owns any initial stake in the system. Instead, both will participate in periodic buy-backs and earn their stake this way.
 
@@ -24,14 +24,14 @@ Following Eternal's pledge of being created by the people, for the people, a fai
 
 ### Pre-Seed Investors Vesting Schedules
 
-All pre-seed investors who purchased ETRNL, will vest their tokens on the basis of a simple quarterly release schedule. This particular schedule spans over the time period of a year, implying that every three months, 1.25% of the ETRNL supply is unevenly distributed  between 13 individual pre-seed investors for the aforementioned period. In spite of this, **pre-seed investors signed agreements in which at least 50% of any purchased ETRNL must be actively staked in the treasury for an additional year.**
+All pre-seed investors who purchased ETRNL, will vest their tokens on the basis of a simple quarterly release schedule lasting for a year.  **Pre-seed investors signed agreements in which at least 50% of any purchased ETRNL must be actively staked in the treasury for an additional year.** Therefore, this implies that every three months, 0.625% of the ETRNL supply is unevenly distributed between 13 individual pre-seed investors for the aforementioned period.
 
 ### Seed/Private Investor Vesting Schedules
 
 All seed and private investors who purchased ETRNL, vested their tokens on the basis of the decrease in supply of ETRNL, following the equation:
 
 $$
-available\space tokens =vested\space{tokens}\times \frac{initial\space supply - current\space  supply}{initial\space supply}\gamma
+available\space tokens =vested\space{tokens}\times \frac{initial\space supply - current\space supply}{initial\space supply}\gamma
 $$
 
 **Where** $$\gamma$$ **is equal to 500 for seed investors and 1000 for private investors**, ensuring that these individuals will only have full access to their funds once the total supply has decreased by 0.2% and 0.1%, respectively.
