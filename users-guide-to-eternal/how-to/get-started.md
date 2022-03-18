@@ -8,7 +8,13 @@ To start using Eternal's services there are only three requirements:
 
 ## 1. Get a valid wallet
 
-You will need a crypto wallet to connect to the Eternal dApp. Currently, we support [MetaMask](https://metamask.io), [Coinbase Wallet](https://www.coinbase.com/wallet) and [any wallet supported by WalletConnect](https://walletconnect.com/registry/wallets).
+You will need a crypto wallet to connect to the Eternal dApp. Currently, we support:
+
+![](../../.gitbook/assets/metamask-fox.svg)[MetaMask](https://metamask.io)&#x20;
+
+![](../../.gitbook/assets/coinbase\_wallet\_logo.png)[Coinbase Wallet](https://www.coinbase.com/wallet) &#x20;
+
+![](../../.gitbook/assets/walletconnect-circle-blue.png)[Any wallet supported by WalletConnect](https://walletconnect.com/registry/wallets)
 
 ## 2. Add the Avalanche Network
 
@@ -30,4 +36,4 @@ Ensure you have some AVAX to pay for transaction fees and a currency which can b
 
 ****
 
-<mark style="color:purple;">**You're ready! You can move on to**</mark> [**the next tutorial.**](use-the-platform.md)****
+<mark style="color:purple;">**You're ready! Now you can move on to**</mark> [**the next tutorial.**](use-the-platform.md)****
