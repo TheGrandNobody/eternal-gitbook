@@ -28,7 +28,7 @@ The button will display your address and change color once you successfully conn
 
 ![Gage selection screen on the Eternal Finance platform](../../.gitbook/assets/4.png)
 
-At this point you are faced with an overwhelming number of choices. Select one.
+Try not to be overwhelmed by the amount of choice, and then select one.
 
 ## 3. Enter the gage
 
