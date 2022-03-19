@@ -40,12 +40,32 @@ Gaging offers a different experience depending on the gage in question. Tutorial
 {% tab title="Liquid Gage" %}
 Click on the 'Select' button to display a list of assets which can be used as deposits.
 
-![](../../.gitbook/assets/5.png)
+![Liquid gage creation screen on the Eternal Finance platform](../../.gitbook/assets/5.png)
 
-Select an asset to deposit. In this example we select AVAX.&#x20;
+Select an asset to deposit. In this example we select MIM.&#x20;
 
-![](../../.gitbook/assets/6.png)
+![](<../../.gitbook/assets/Screenshot 2022-03-18 at 20.13.19.png>)
 
+Once you have selected a deposit, type the amount you wish to deposit  in the top bar. The bottom bar will display the instant bonus you will receive upon entering the gage. The percentage values of the bonus, risk and gage condition will be displayed on the middle of the screen.
 
+![](<../../.gitbook/assets/Screenshot 2022-03-19 at 06.45.18.png>)
+
+If this is your first time entering a gage with this deposit, you will likely need to approve the Eternal Factory to allow it to transfer your funds to the Treasury. Press the 'Approve' button.
+
+![](<../../.gitbook/assets/Screenshot 2022-03-19 at 06.45.29.png>)
+
+Once you have approved, you may enter the gage. Press the 'Confirm' button.
+
+![](<../../.gitbook/assets/Screenshot 2022-03-19 at 11.14.50.png>)
+
+Your wallet will once again prompt you to confirm a transaction.
+
+![](<../../.gitbook/assets/Screenshot 2022-03-19 at 11.14.06.png>)
+
+If everything went correctly, after a few seconds the platform will redirect you to the User Info page.
+
+![](<../../.gitbook/assets/Screenshot 2022-03-19 at 13.49.32.png>)
+
+Congratulations! If you followed these steps you should see a similar screen displaying your gage's stats. We explain the meaning of these stats [here](view-your-stats.md).
 {% endtab %}
 {% endtabs %}
