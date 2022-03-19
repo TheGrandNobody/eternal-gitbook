@@ -8,13 +8,13 @@ description: A summary of Eternal, what it is and what it does
 
 Eternal is the world's first long-termist decentralized gaging platform, **aiming to popularize a new class of long-term financial instruments, gages, as a solution to a $1.7 trillion problem named short-termism.**
 
-More than that, Eternal is an attempt at demonstrating the significant advantages of neo-long-termist strategies. We begin doing so by **giving you the opportunity to provide liquidity on our platform at a 50% discount as well as being paid for it, simultaneously, whilst remaining economically sustainable**.&#x20;
+More than that, Eternal is an attempt at demonstrating the significant advantages of neo-long-termist strategies. We begin doing so by **giving you the opportunity to provide liquidity on our platform at a 50% discount as well as being paid for it, simultaneously, whilst remaining economically sustainable**.
 
 ## What is short-termism?
 
-Short-termism is **the habit of focusing on short-term results at the cost of long-term gain**. For instance, take an individual trying to earn money as fast as possible, paying no attention to risk, or another who only eats takeaway, ignoring their health.&#x20;
+Short-termism is **the habit of focusing on short-term results at the cost of long-term gain**. For instance, take an individual trying to earn money as fast as possible, paying no attention to risk, or another who only eats takeaway, ignoring their health.
 
-**Sounds familiar? We've all been there.**&#x20;
+**Sounds familiar? We've all been there.**
 
 Whether it is the money-hungry corporations with no care for the world, investors aping on risky meme tokens, or mercenary liquidity providers, [we are all psychologically engineered to be short-termist](https://www.aeaweb.org/articles?id=10.1257/aer.89.1.103).
 
@@ -44,11 +44,13 @@ You name it.
 
 ## What is a gage?
 
-A gage is broadly defined as a **contract between two or more stakeholders who promise to pay a given percentage of a deposited asset to the last stakeholder who breaks a predetermined condition.** It is a lot easier to understand a gage through its applications: you may do so by reading [the gage section](products-services/gages/), or the academic whitepaper, _Introduction to gages_.
+A gage is broadly defined as a **contract between two or more stakeholders who promise to pay a given percentage of a deposited asset to the last stakeholder who breaks a predetermined condition.** It is a lot easier to understand a gage through its applications: you may do so by reading our short [gage section](products-services/gages/), or the  much longer whitepaper, [_Introduction to gages_](https://www.eternal.money/download).
 
 ## Why should I use gages?
 
-The developed gage-related applications, are not only designed and proven to **earn you more money with less risk than any other instrument**, they are also **completely free**, **accessible to all** and **can significantly help change our short-termist behaviour**. The catch? You will need to fight your short-termist instincts, and approach everything with a long-term mentality. This simply means that **the most patient investors will win the most money**.
+The developed gage-related applications, are not only designed and proven to **earn you more money with less risk than any other instrument**, they are also **completely free**, **accessible to all** and **can significantly help change our short-termist behaviour**. The catch? You will need to fight your short-termist instincts, and approach everything with a long-term mentality. This simply means that **the investors who  are most patient will always win.**&#x20;
+
+In most cases of short-termism, being the most patient is highly correlated to having everyone else's interests at heart rather than only one's own.
 
 {% hint style="info" %}
 **Are you more patient than everyone else?**
@@ -56,7 +58,7 @@ The developed gage-related applications, are not only designed and proven to **e
 
 ## How do gages solve short-termism?
 
-**Short-termism arises as a result of poor dynamics between individuals.** For example, back to our firm-investor dilemma, one of the main reasons firms are short-termist is because of their unhealthy relationships with investors, who are also short-termist. **Gages are particularly useful when it comes to creating win-win relationships between two or more individuals.**
+**Short-termism arises as a result of poor dynamics between individuals.** Some refer to this as principle-agent problems or agency dilemmas. For example, back to our firm-investor dilemma, one of the main reasons firms are short-termist is because of their unhealthy relationships with investors, who are also short-termist. **Gages are particularly useful when it comes to creating win-win relationships between two or more individuals.**
 
 For this specific dilemma we propose a solution with [loyalty gages](products-services/gages/loyalty-gage/).
 
@@ -66,18 +68,18 @@ But that is not the end of it.
 
 ## Is a loyalty gage the same as a bond?
 
-No, a bond is a loan made by an investor to an entity, usually a firm or government. While bonds may initially sound similar to a loyalty gage in that they are both long-term financial instruments, they are entirely different.&#x20;
+No, a bond is a loan made by an investor to an entity, usually a firm or government. While bonds may initially sound similar to a loyalty gage in that they are both long-term financial instruments, they are entirely different.
 
-1. **Bonds have a fixed period of maturation (vesting period).** **Loyalty gages are completely flexible** **and allow the liquidity providers to withdraw their liquidity whenever they  wish to do so**, penalizing them rather than forcing them into an involuntary choice.
-2. **Bonds yield interest over time to the investor. This entails relatively small rewards distributed over time,** as the full value of the interest is distributed by the end of the maturation period.  **Loyalty gages offer the investor a relatively large, instantaneous bonus percentage** **as well as an additional relatively large bonus** if the investor maintains his promise of long-termism.
-3. **Bonds do not fix the issue of short-termism in investors.** Forcing a vesting period onto investors does not change their short-termist psychology over time. From a behavioral psychology standpoint, forcing anything onto anyone is an unsustainable way to change them in the long-term. **A loyalty gage promotes long-term culture through the creation of a symbiotic relationship between any given investor and  asset-distributing entity.** No one is forced to do anything, but there are consequences which discourage anyone from acting poorly, and rewards which encourage anyone who acts virtuously.
+1. **Bonds have a fixed period of maturation (vesting period).** **Loyalty gages are completely flexible** **and allow the liquidity providers to withdraw their liquidity whenever they wish to do so**, penalizing them rather than forcing them into an involuntary choice.
+2. **Bonds yield interest over time to the investor. This entails relatively small rewards distributed over time,** as the full value of the interest is distributed by the end of the maturation period. **Loyalty gages offer the investor a relatively large, instantaneous bonus percentage** **as well as an additional relatively large bonus** if the investor maintains his promise of long-termism.
+3. **Bonds do not fix the issue of short-termism in investors.** Forcing a vesting period onto investors does not change their short-termist psychology over time. From a behavioral psychology standpoint, forcing anything onto anyone is an unsustainable way to change them in the long-term. **A loyalty gage promotes long-term culture through the creation of a symbiotic relationship between any given investor and asset-distributing entity.** No one is forced to do anything, but there are consequences which discourage anyone from acting poorly, and rewards which encourage anyone who acts virtuously.
 
 ## What about a gage in general, is it similar to financial instrument X (bonds, warrants, etc)?
 
-No, gages are a different,  much larger class of long-term financial instruments of their own, which are particularly adept in establishing harmonious dynamics between entities.
+No, gages are a different, much larger class of long-term financial instruments of their own, which are particularly adept in establishing harmonious dynamics between entities.
 
-1. **A gage has an infinity of applications**, which not only overlap the scope of any given traditional financial instrument, but more broadly, pretty much any interaction between any two or more individuals. &#x20;
-2. **Gage-related applications are generally superior in fixing a short-termist issue as compared to traditional financial instruments** as they create symbiotic relationships rather than force either individual into a given traditional role.&#x20;
+1. **A gage has an infinity of applications**, which not only overlap the scope of any given traditional financial instrument, but more broadly, pretty much any interaction between any two or more individuals.
+2. **Gage-related applications are generally superior in fixing a short-termist issue as compared to traditional financial instruments** as they create symbiotic relationships rather than force either individual into a given traditional role.
 3. **The flexibility of gages always allow more options, more actions, and more fluidity in the interaction between any two or more individuals.** This means that constrains, limits and other barriers to access and usage normally imposed by traditional financial instruments are removed with gages.
 
 ## What is the governance like in Eternal?
@@ -100,4 +102,4 @@ Unfortunately, we have not reached a point in society where all systems are full
 
 ## Who is Nobody?
 
-nobody.
+I'm nobody. You're nobody. We're all nobody.
