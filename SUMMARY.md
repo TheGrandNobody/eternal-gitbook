@@ -41,7 +41,15 @@
 ## Developers
 
 * [📖 Eternal Documentation](developers/eternal-documentation/README.md)
-  * [Initial Release (V0)](developers/eternal-documentation/initial-release-v0.md)
+  * [Initial Release (V0)](developers/eternal-documentation/initial-release-v0/README.md)
+    * [Eternal Storage](developers/eternal-documentation/initial-release-v0/eternal-storage.md)
+    * [Eternal Token V0](developers/eternal-documentation/initial-release-v0/eternal-token-v0.md)
+    * [Eternal Factory V0](developers/eternal-documentation/initial-release-v0/eternal-factory-v0.md)
+    * [Eternal Treasury V0](developers/eternal-documentation/initial-release-v0/eternal-treasury-v0.md)
+    * [FundLock](developers/eternal-documentation/initial-release-v0/fundlock.md)
+    * [Eternal Offering](developers/eternal-documentation/initial-release-v0/eternal-offering.md)
+    * [Eternal Fund](developers/eternal-documentation/initial-release-v0/eternal-fund.md)
+    * [Timelock](developers/eternal-documentation/initial-release-v0/timelock.md)
 
 ## Resources
 

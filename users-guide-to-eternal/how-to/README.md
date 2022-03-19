@@ -4,8 +4,6 @@ description: The starter's guide to beginning a journey of long-term wealth on E
 
 # ❓ How to
 
-
-
 {% content-ref url="get-started.md" %}
 [get-started.md](get-started.md)
 {% endcontent-ref %}
@@ -16,4 +14,8 @@ description: The starter's guide to beginning a journey of long-term wealth on E
 
 {% content-ref url="view-your-stats.md" %}
 [view-your-stats.md](view-your-stats.md)
+{% endcontent-ref %}
+
+{% content-ref url="exit-a-gage.md" %}
+[exit-a-gage.md](exit-a-gage.md)
 {% endcontent-ref %}
