@@ -2,7 +2,7 @@
 description: A guide on using the Eternal platform
 ---
 
-# Use the platform
+# Join a gage
 
 {% hint style="info" %}
 If you have not already, make sure you are [properly setup](get-started.md) to start using the Eternal dApp. Otherwise, keep reading!
@@ -66,6 +66,6 @@ If everything went correctly, after a few seconds the platform will redirect you
 
 ![](<../../.gitbook/assets/Screenshot 2022-03-19 at 13.49.32.png>)
 
-Congratulations! If you followed these steps you should see a similar screen displaying your gage's stats. We explain the meaning of these stats [here](view-your-stats.md).
+<mark style="color:purple;">Congratulations! If you followed these steps you should see a similar screen displaying your gage's stats. We explain the meaning of these stats</mark> [here](view-your-stats.md).
 {% endtab %}
 {% endtabs %}

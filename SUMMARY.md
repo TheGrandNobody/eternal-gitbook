@@ -6,8 +6,9 @@
 
 * [❓ How to](users-guide-to-eternal/how-to/README.md)
   * [Get started](users-guide-to-eternal/how-to/get-started.md)
-  * [Use the platform](users-guide-to-eternal/how-to/use-the-platform.md)
+  * [Join a gage](users-guide-to-eternal/how-to/use-the-platform.md)
   * [View your stats](users-guide-to-eternal/how-to/view-your-stats.md)
+  * [Exit a gage](users-guide-to-eternal/how-to/exit-a-gage.md)
 
 ## Token
 
