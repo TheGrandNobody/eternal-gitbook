@@ -16,17 +16,17 @@ _<mark style="color:purple;">The EternalStorage.sol contract holds all variables
 
 ```
 modifier onlyLatestVersion() {
-        bytes32 entity = keccak256(abi.encodePacked(_msgSender()));
-        require(_msgSender() == addresses[eternalStorage][entity], "Old contract can't edit storage");
-        _;
-    }
+     bytes32 entity = keccak256(abi.encodePacked(_msgSender()));
+     require(_msgSender() == addresses[eternalStorage][entity], "Old contract can't edit storage");
+     _;
+}
 ```
 
 Ensures that contracts can only modify the storage if the keccak-256 hash of their address is stored in the storage. This is mainly used to prevent older contracts from accessing storage. Note that this does not prevent any given address from viewing the storage's contents.
 
 ## Functions
 
-### Initialize
+### initialize
 
 ```
 function initialize(address _token, address _factory, address _treasury, address _offering, address _timelock, address _fund) external 
@@ -267,7 +267,7 @@ Returns a boolean array's element's value for a given key and index.
 
 * `key`: The specified mapping key
 * `index`: The specified index of the desired value
-* `return: bool` The boolean value at the specified index for the specified array
+* `return: boolean` The boolean value at the specified index for the specified array
 
 ### getBytesArrayValue
 
