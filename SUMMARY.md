@@ -48,8 +48,7 @@
     * [Eternal Treasury V0](developers/eternal-documentation/initial-release-v0/eternal-treasury-v0.md)
     * [FundLock](developers/eternal-documentation/initial-release-v0/fundlock.md)
     * [Eternal Offering](developers/eternal-documentation/initial-release-v0/eternal-offering.md)
-    * [Eternal Fund](developers/eternal-documentation/initial-release-v0/eternal-fund.md)
-    * [Timelock](developers/eternal-documentation/initial-release-v0/timelock.md)
+    * [Governance](developers/eternal-documentation/initial-release-v0/governance.md)
 
 ## Resources
 

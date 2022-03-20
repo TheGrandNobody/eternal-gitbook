@@ -28,10 +28,6 @@ description: Smart contracts which were released at launch
 [eternal-offering.md](eternal-offering.md)
 {% endcontent-ref %}
 
-{% content-ref url="eternal-fund.md" %}
-[eternal-fund.md](eternal-fund.md)
-{% endcontent-ref %}
-
-{% content-ref url="timelock.md" %}
-[timelock.md](timelock.md)
+{% content-ref url="governance.md" %}
+[governance.md](governance.md)
 {% endcontent-ref %}
