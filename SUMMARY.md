@@ -46,9 +46,12 @@
     * [Eternal Token V0](developers/eternal-documentation/initial-release-v0/eternal-token-v0.md)
     * [Eternal Factory V0](developers/eternal-documentation/initial-release-v0/eternal-factory-v0.md)
     * [Eternal Treasury V0](developers/eternal-documentation/initial-release-v0/eternal-treasury-v0.md)
+    * [Gage](developers/eternal-documentation/initial-release-v0/gage.md)
+    * [Loyalty Gage](developers/eternal-documentation/initial-release-v0/loyalty-gage.md)
+    * [Ownable Enhanced](developers/eternal-documentation/initial-release-v0/ownable-enhanced.md)
     * [FundLock](developers/eternal-documentation/initial-release-v0/fundlock.md)
     * [Eternal Offering](developers/eternal-documentation/initial-release-v0/eternal-offering.md)
-    * [Governance](developers/eternal-documentation/initial-release-v0/governance.md)
+    * [Governance](developers/eternal-documentation/initial-release-v0/eternal-fund.md)
 
 ## Resources
 

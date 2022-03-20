@@ -20,6 +20,18 @@ description: Smart contracts which were released at launch
 [eternal-treasury-v0.md](eternal-treasury-v0.md)
 {% endcontent-ref %}
 
+{% content-ref url="gage.md" %}
+[gage.md](gage.md)
+{% endcontent-ref %}
+
+{% content-ref url="loyalty-gage.md" %}
+[loyalty-gage.md](loyalty-gage.md)
+{% endcontent-ref %}
+
+{% content-ref url="ownable-enhanced.md" %}
+[ownable-enhanced.md](ownable-enhanced.md)
+{% endcontent-ref %}
+
 {% content-ref url="fundlock.md" %}
 [fundlock.md](fundlock.md)
 {% endcontent-ref %}
@@ -28,6 +40,6 @@ description: Smart contracts which were released at launch
 [eternal-offering.md](eternal-offering.md)
 {% endcontent-ref %}
 
-{% content-ref url="governance.md" %}
-[governance.md](governance.md)
+{% content-ref url="eternal-fund.md" %}
+[eternal-fund.md](eternal-fund.md)
 {% endcontent-ref %}
