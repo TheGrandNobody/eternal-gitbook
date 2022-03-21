@@ -122,7 +122,7 @@ Creates an ETRNL loyalty gage contract for a given asset and amount.&#x20;
 function settleGage(address receiver, uint256 id, bool winner) external
 ```
 
-Settles a given loyalty gage closed by a given receiver. Only callable by an Eternal gage.
+Settles a given loyalty gage closed by a given receiver. Only callable by an Eternal-deployed gage.
 
 * `receiver`: The address of the specified receiver
 * `id`: The unique id of the specified gage
