@@ -4,4 +4,4 @@ description: All contract security audits
 
 # 🔐 Security Audits
 
-### Certik (All V0 Contracts): [https://www.certik.com/projects/eternal](https://www.certik.com/projects/eternal)
+### Certik (All gage contracts and the Eternal Token contract): [https://www.certik.com/projects/eternal](https://www.certik.com/projects/eternal)
