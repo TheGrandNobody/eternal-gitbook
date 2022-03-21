@@ -6,7 +6,7 @@ description: A basic access control mechanism
 
 ## <mark style="color:blue;">Introduction</mark>
 
-<mark style="color:purple;">The OwnableEnhanced.sol contract is a modified version of</mark> [<mark style="color:purple;">Open Zeppelin's Ownable contract</mark>](https://docs.openzeppelin.com/contracts/4.x/api/access#Ownable)<mark style="color:purple;">.</mark>
+_<mark style="color:purple;">The OwnableEnhanced.sol contract is a modified version of</mark>_ [_<mark style="color:purple;">Open Zeppelin's Ownable contract</mark>_](https://docs.openzeppelin.com/contracts/4.x/api/access#Ownable)_<mark style="color:purple;">.</mark>_
 
 <mark style="color:purple;">Aside from providing the same mechanics as Ownable.sol, OwnableEnhanced also introduces a temporary admin which loses his admin powers after 24 hours. This is used in allowing the temporary admin to initialize all other Eternal contracts before they become fully decentralized and governed by the Eternal Fund.</mark>&#x20;
 

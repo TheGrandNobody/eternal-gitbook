@@ -68,7 +68,7 @@ function viewLoyalty() external view returns (bool)
 
 Returns whether this gage falls under the loyalty gage category or not.
 
-* `return: bool` True if the gage is a loyalty gage, otherwise false
+* `return: boolean` True if the gage is a loyalty gage, otherwise false
 
 ### viewUserData
 
