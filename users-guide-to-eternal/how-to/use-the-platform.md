@@ -16,7 +16,7 @@ If you have not already, make sure you are [properly setup](get-started.md) to s
 
 [Open our website](https://eternal.money) and click the 'Connect Wallet' button on the top right corner of your screen.
 
-![Location of the 'Connect Wallet' button on the home page of the Eternal Finance platform](../../.gitbook/assets/1.png)
+![Location of the 'Connect Wallet' button on the home page of the Eternal Finance platform](<../../.gitbook/assets/1 (1).png>)
 
 Select a wallet from the given options.
 
@@ -24,7 +24,7 @@ Select a wallet from the given options.
 
 The button will display your address and change color once you successfully connect. Proceed either by clicking the Gage' button on the navigation bar or the 'Go to platform' button in the middle of the screen.
 
-![](../../.gitbook/assets/3.png)
+![Location of the 'Go to platform' and 'Gage' buttons on the home page of the Eternal Finance platform](../../.gitbook/assets/3.png)
 
 ## 2. Select a gage
 
@@ -44,27 +44,27 @@ Click on the 'Select' button to display a list of assets which can be used as de
 
 Select an asset to deposit. In this example we select MIM.&#x20;
 
-![](<../../.gitbook/assets/Screenshot 2022-03-18 at 20.13.19.png>)
+![Liquid gage creation screen with a token selection list on the Eternal Finance platform](<../../.gitbook/assets/Screenshot 2022-03-18 at 20.13.19.png>)
 
 Once you have selected a deposit, type the amount you wish to deposit  in the top bar. The bottom bar will display the instant bonus you will receive upon entering the gage. The percentage values of the bonus, risk and gage condition will be displayed on the middle of the screen.
 
-![](<../../.gitbook/assets/Screenshot 2022-03-19 at 06.45.18.png>)
+![Liquid gage creation screen with a selected amount on the Eternal Finance platform](<../../.gitbook/assets/Screenshot 2022-03-19 at 06.45.18.png>)
 
 If this is your first time entering a gage with this deposit, you will likely need to approve the Eternal Factory to allow it to transfer your funds to the Treasury. Press the 'Approve' button.
 
-![](<../../.gitbook/assets/Screenshot 2022-03-19 at 06.45.29.png>)
+![Approval transaction while entering a gage on the Eternal Finance platform](<../../.gitbook/assets/Screenshot 2022-03-19 at 06.45.29.png>)
 
 Once you have approved, you may enter the gage. Press the 'Confirm' button.
 
-![](<../../.gitbook/assets/Screenshot 2022-03-19 at 11.14.50.png>)
+![Liquid gage creation screen after approving on the Eternal Finance platform](<../../.gitbook/assets/Screenshot 2022-03-19 at 11.14.50.png>)
 
 Your wallet will once again prompt you to confirm a transaction.
 
-![](<../../.gitbook/assets/Screenshot 2022-03-19 at 11.14.06.png>)
+![Confirmation transaction while entering a gage on the Eternal Finance platform](<../../.gitbook/assets/Screenshot 2022-03-19 at 11.14.06.png>)
 
 If everything went correctly, after a few seconds the platform will redirect you to the User Info page.
 
-![](<../../.gitbook/assets/Screenshot 2022-03-19 at 13.49.32.png>)
+![User Info page after entering a gage on the Eternal Finance platform](<../../.gitbook/assets/Screenshot 2022-03-19 at 13.49.32.png>)
 
 <mark style="color:purple;">Congratulations! If you followed these steps you should see a similar screen displaying your gage's stats. We explain the meaning of these stats</mark> [here](view-your-stats.md).
 {% endtab %}

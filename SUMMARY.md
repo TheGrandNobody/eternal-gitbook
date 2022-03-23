@@ -9,6 +9,9 @@
   * [Join a gage](users-guide-to-eternal/how-to/use-the-platform.md)
   * [View your stats](users-guide-to-eternal/how-to/view-your-stats.md)
   * [Exit a gage](users-guide-to-eternal/how-to/exit-a-gage.md)
+  * [Stake your ETRNL](users-guide-to-eternal/how-to/stake-your-etrnl.md)
+  * [Unstake ETRNL/Claim rewards](users-guide-to-eternal/how-to/unstake-etrnl-claim-rewards.md)
+  * [Buy ETRNL](users-guide-to-eternal/how-to/buy-etrnl.md)
 
 ## Token
 
