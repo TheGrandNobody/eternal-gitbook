@@ -34,4 +34,4 @@ Once the transaction completes, your stats, visible on the left hand side of the
 
 ![Unstaking page with no ETRNL staked on the Eternal Finance platform](<../../.gitbook/assets/Screenshot 2022-03-23 at 16.33.52.png>)
 
-Congratulations, you have unstaked your ETRNL and claimed your rewards! The rewards are sent together with the ETRNL you unstaked.
+<mark style="color:purple;">Congratulations, you have unstaked your ETRNL and claimed your rewards! The rewards are sent together with the ETRNL you unstaked.</mark>

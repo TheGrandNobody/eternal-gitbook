@@ -6,8 +6,6 @@ description: A guide on the User Info page and what it means
 
 <mark style="color:purple;">The User Info page displays any gage you have joined and any important information about these gages. It is also the control panel for your gages, allowing you to exit them if desired. We will tell you everything about it here:</mark>
 
-![Active gages displayed on the User Info page of the Eternal Finance platform.](<../../.gitbook/assets/Screenshot 2022-03-19 at 13.49.32.png>)
-
 ## 1. Tabs
 
 There are three clickable tabs: **Active**, **Pending** and **Closed**. Each tab displays gages which fall under the tab's category.&#x20;
@@ -15,6 +13,8 @@ There are three clickable tabs: **Active**, **Pending** and **Closed**. Each tab
 1. An **active** gage is one which you have entered and is ongoing.&#x20;
 2. A **pending** gage is a gage which you have joined but is awaiting some other factors. For example, your gage needs other stakeholders before it activates.&#x20;
 3. A **closed** gage is one which you have exited.&#x20;
+
+![Active gages displayed on the User Info page of the Eternal Finance platform.](<../../.gitbook/assets/Screenshot 2022-03-24 at 10.17.29.png>)
 
 ## 2. Stats
 

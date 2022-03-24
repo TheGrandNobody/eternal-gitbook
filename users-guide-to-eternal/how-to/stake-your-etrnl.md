@@ -24,10 +24,6 @@ If this is your first time, you will need to approve the treasury so that it may
 
 ![MetaMask approval window while staking on the Eternal Finance platform](<../../.gitbook/assets/Screenshot 2022-03-23 at 16.14.23.png>)
 
-
-
-
-
 ## 4. Press Confirm
 
 Finally, press the 'Confirm' button and confirm the transaction.
@@ -38,4 +34,4 @@ Once the transaction completes, your stats, visible on the left hand side of the
 
 ![Staking page with some ETRNL staked on the Eternal Finance platform](<../../.gitbook/assets/Screenshot 2022-03-23 at 16.15.11.png>)
 
-Congratulations, you have successfully become a part of the Eternal Treasury!
+<mark style="color:purple;">Congratulations, you have successfully become a part of the Eternal Treasury!</mark>
