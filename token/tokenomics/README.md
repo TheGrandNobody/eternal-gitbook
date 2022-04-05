@@ -30,7 +30,7 @@ All of the Eternal Treasury's reserves are to be allocated by the [Eternal Fund]
 
 ### 7/8. Supply burn and Limited Supply (Definite Deflation)
 
-At present, most major currencies in our world's economy are inflationary. This is also true to cryptocurrencies. With such contexts in mind, deflation leads to the increase of purchasing power of a given token. This is further reinforced by the idea that the other currencies against which ETRNL is compared to are inflationary, hence their purchasing power decreases. **ETRNL is deflationary by standard due to having a limited supply**, where no new ETRNL will be printed. Additionally, **ETRNL also burns its supply, which introduces a rate of deflation. This rate is modifiable and can therefore be deactivated in any event of economical distress.**
+At present, most major currencies in our world's economy are inflationary. This is also true to cryptocurrencies. With such contexts in mind, deflation leads to the increase of purchasing power of a given token. This is further reinforced by the idea that the other currencies against which ETRNL is compared to are inflationary, hence their purchasing power decreases. **ETRNL is deflationary by standard due to having a fixed money supply**. Additionally, **ETRNL also burns its supply, which introduces a rate of deflation. This rate is modifiable and can therefore be deactivated in any event of economical distress.**
 
 ## Circular Flow of ETRNL
 
