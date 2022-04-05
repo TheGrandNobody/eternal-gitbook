@@ -12,13 +12,13 @@ description: The economics and crypto-economics of the Eternal token
 
 The intrinsic value of ETRNL is generated and guaranteed by seven factors:
 
-### 1. Gaging Fees & Buybacks
+### 1/2. Gaging Fees & Buybacks
 
 For all gages, regardless of centralized or decentralized applications, a small fee is taken on any deposited assets which are not ETRNL. This fee occurs upon withdrawal of the asset from the given gage and is instantly transferred to the Eternal Treasury. This ensures that **ETRNL is backed by a diversified basket of goods, which accrues in both variety and quantity over time.** Furthermore, half of the fee is also sold back for ETRNL placing upward pressure on the token's price.
 
 ### 3. Automatic Liquidity Provision
 
-On every transaction with ETRNL, a small fee is computed. **ETRNL provides its own liquidity to decentralized exchanges** using a fraction of this fee. As the **LP-tokens received from this are only accessible by the** [**Eternal Fund**](../../governance/eternal-fund.md)**, this entails the autonomous creation and maintenance of a price floor for ETRNL.**
+On every transaction with ETRNL, a small fee is computed. **ETRNL provides its own liquidity to decentralized exchanges** using a fraction of this fee. As the **LP-tokens received from this are only accessible by the** [**Eternal Fund**](../../governance/eternal-fund.md)**, this increases the token’s price resilience to changes, rendering it more stable.**&#x20;
 
 ### 4/5. Reward Redistribution & Funding (Indefinite Deflation)
 
