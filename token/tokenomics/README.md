@@ -22,7 +22,7 @@ On every transaction with ETRNL, a small fee is computed. **ETRNL provides its o
 
 ### 4/5. Reward Redistribution & Funding (Indefinite Deflation)
 
-One other fraction of the aforementioned ETRNL fee is sent to the [Eternal Fund](../../governance/eternal-fund.md) and another is redistributed to all holders of ETRNL. As the [Eternal Fund](../../governance/eternal-fund.md) accumulates ETRNL in its treasury, it slowly begins compounding its ETRNL reserves over time. **The total ETRNL supply temporarily deflates as part of it remains unused in the** [**Eternal Fund**](../../governance/eternal-fund.md) **for an indefinite period of time. This percentage of the supply can be re-injected into the economy in the event that ETRNL's rate of deflation becomes detrimentally high.**
+One other fraction of the aforementioned ETRNL fee is sent to the Eternal Treasury and another is redistributed to all holders of ETRNL. As the Eternal Treasury accumulates ETRNL, it slowly begins compounding its ETRNL reserves over time. **The total ETRNL supply temporarily deflates as part of it remains unused in the** Eternal Treasury’s reserves **for an indefinite period of time. This percentage of the supply can be re-injected into the economy in the event that ETRNL's rate of deflation becomes detrimentally high.**
 
 ### **6.** Allocation of Reserves
 
