@@ -24,7 +24,7 @@ Following Eternal's pledge of being created by the people, for the people, a fai
 
 ### Pre-Seed Investors Vesting Schedules
 
-All pre-seed investors who purchased ETRNL, will vest their tokens on the basis of a simple quarterly release schedule lasting for a year.  **Pre-seed investors signed agreements in which at least 50% of any purchased ETRNL must be actively staked in the treasury for an additional year.** Therefore, this implies that every three months, 0.625% of the ETRNL supply is unevenly distributed between 13 individual pre-seed investors for the aforementioned period.
+All pre-seed investors who purchased ETRNL, will vest their tokens on the basis of a simple quarterly release schedule lasting for a year.  **Pre-seed investors have agreed to pledge at least 50% of all their ETRNL to be actively staked in the treasury for an additional year.** Therefore, this implies that every three months, 0.625% of the ETRNL supply is unevenly distributed between 13 individual pre-seed investors for the aforementioned period.
 
 ### Seed/Private Investor Vesting Schedules
 
