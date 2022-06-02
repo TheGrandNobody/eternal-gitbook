@@ -10,7 +10,7 @@ description: A solution to corporate short-termism.
 
 ### Properties
 
-**Distributor Condition:**  Depends on context and industry
+**Distributor Condition:** Depends on context and industry
 
 {% hint style="info" %}
 In traditional finance, the condition is generally set to re-issuance of shares. In decentralized finance, the condition is generally set to a threshold involving the total token supply and its yearly inflation rate.
@@ -18,19 +18,19 @@ In traditional finance, the condition is generally set to re-issuance of shares.
 
 **Receiver Condition:** Non-withdrawal of deposit
 
-**Less **<mark style="color:red;">**Risk**</mark>**, More **<mark style="color:green;">**Reward:**</mark> A loyalty gage's risk to reward is always greater than or equal to 2:1 as long as the receiver risk, $$\mu$$, is no more than twice the distributor risk, $$\gamma$$. Given a deposit $$x$$, this is shown by the calculation of the risk to reward $$R$$:
+**Less** <mark style="color:red;">**Risk**</mark>, **More** <mark style="color:green;">**Reward:**</mark> A loyalty gage's risk to reward is always greater than or equal to 2:1 as long as the receiver risk, $$\mu$$, is no more than twice the distributor risk, $$\gamma$$. Given a deposit $$x$$, this is shown by the calculation of the risk to reward $$R$$:
 
 $$R = \frac{2\gamma x}{(\mu - \gamma)x} = \frac{2\gamma}{\mu - \gamma} = \frac{2\gamma}{2\gamma- \gamma} = 2$$
 
 <mark style="color:green;">**Bonus:**</mark> A given amount of an asset is instantly available to the receiver upon activation of the gage.
 
-<mark style="color:orange;">**Symb**</mark><mark style="color:green;">**iosis:**</mark>** ** Loyalty gages create symbiotic relationships between any given distributor and receiver.
+<mark style="color:orange;">**Symb**</mark><mark style="color:green;">**iosis:**</mark> Loyalty gages create symbiotic relationships between any given distributor and receiver.
 
 ### <mark style="color:blue;">**Example**</mark>
 
-<mark style="color:purple;">Alice owns a company that needs healthy investors who will hold their shares in the long-term. Bob wants to purchase 100 of Alice's shares. However, Bob is an investor who wants to make money under as little time as possible and has no intention of holding in the long-term. Alice, the distributor, offers a loyalty gage to Bob, the receiver.</mark>&#x20;
+<mark style="color:purple;">Alice owns a company that needs healthy investors who will hold their shares in the long-term. Bob wants to purchase 100 of Alice's shares. However, Bob is an investor who wants to make money under as little time as possible and has no intention of holding in the long-term. Alice, the distributor, offers a loyalty gage to Bob, the receiver.</mark>
 
-<mark style="color:purple;">The loyalty gage warrants Bob 100 shares (the deposit), with a 10% risk percentage for Alice, an 11% risk percentage for Bob and a bonus in the form of Alice's risk percentage. The distributor condition depends on whether Alice re-issues common stock. The receiver condition depends on whether Bob withdraws the 100-share deposit.</mark> &#x20;
+<mark style="color:purple;">The loyalty gage warrants Bob 100 shares (the deposit), with a 10% risk percentage for Alice, an 11% risk percentage for Bob and a bonus in the form of Alice's risk percentage. The distributor condition depends on whether Alice re-issues common stock. The receiver condition depends on whether Bob withdraws the 100-share deposit.</mark>
 
 <mark style="color:purple;">As soon as the loyalty gage is active, the bonus of 10 shares is instantly awarded to Bob, who can freely spend it at will. If Bob withdraws the 100 shares deposited in the contract before Alice's company re-issues shares, then Bob loses 11 shares. If Alice re-issues shares before Bob withdraws his deposit, then Alice pays Bob an additional 10 shares.</mark>
 
