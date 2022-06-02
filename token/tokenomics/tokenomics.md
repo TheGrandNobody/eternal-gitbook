@@ -14,9 +14,9 @@ Following Eternal's pledge of being created by the people, for the people, a fai
 
 * Minimum of 42.5% reserved for a fair Initial Gage Offering (IGO)
 * Minimum of 42.5% locked into the Eternal Treasury
-* 5% reserved for the pre-seed
-* 5% reserved for the seed sale
-* 5% reserved for the private sale
+* 5% locked on the Eternal Treasury, reserved for the pre-seed investors
+* 5% locked on a smart contract for future seed investors
+* 5% locked on a smart contract for private investors
 
 {% hint style="info" %}
 **Leftover tokens from the IGO are sent to the Eternal Treasury.**
